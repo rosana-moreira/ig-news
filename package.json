@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@babel/core": "^7.8.0",
     "@prismicio/client": "5.1.1",
     "@stripe/stripe-js": "^1.25.0",
     "@types/prismic-dom": "^2.1.1",
